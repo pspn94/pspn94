@@ -25,8 +25,8 @@
 ### You can reach me at:
   <div>
   <a href="https://www.linkedin.com/in/pedro-sp-neto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/binhosouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: gabrielss_@outlook.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/pspn94" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto: pspn94@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 </div>
 <!---
 pspn94/pspn94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
