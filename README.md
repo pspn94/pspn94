@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Pedro Neto.
-- 👀 I’m interested in Mobile Development and Web Development.
-- 🌱 I’m currently learning Flutter and Node.js with Express and MongoDB.
+- I’m interested in Data Science, Data Analytics and Web Development.
+- I’m currently learning JavaScript and React.js with Redux.
 <br></br>
 <div>
   <a href="https://github.com/pspn94">
