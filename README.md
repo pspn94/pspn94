@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Pedro Neto.
+## Hi, I’m Pedro Neto.
 - I’m interested in Data Science, Data Analytics and Web Development.
 - I’m currently learning JavaScript and React.js with Redux.
 <br></br>
