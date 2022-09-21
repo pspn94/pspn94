@@ -24,6 +24,13 @@
 </div>
 <br>
 
+## Projects:
+See all my projects:
+
+* **AirBnb Data Analyses - London** https://bit.ly/3S1x1e9
+
+---
+
 ### You can reach me at:
   <div>
   <a href="https://www.linkedin.com/in/pedro-sp-neto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -34,3 +41,5 @@
 pspn94/pspn94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
