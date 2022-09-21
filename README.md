@@ -1,4 +1,4 @@
-## Hi, I’m Pedro Neto.
+## 👋 Hi, I’m Pedro Neto.
 - Data Engineer at Cidacs
 - Master student in Data Science at University of Hertfordshire
 - I’m interested in Data Science, Data Analytics and Web Development.
@@ -7,10 +7,9 @@
   <a href="https://github.com/pspn94">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pspn94&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pspn94&langs_count=5&theme=tokyonight"/>
-
 <div>
   
-### Languages, Frameworks and Technologies
+### Programming Languages, Frameworks and Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -24,7 +23,14 @@
 </div>
 <br>
 
-## Projects:
+### Languages
+<div>
+  <img align="center" alt="pt-BR" src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="40">
+  <img align="center" alt="en-UK" src="https://hatscripts.github.io/circle-flags/flags/uk.svg" width="40">
+</div>
+<br>
+
+### Projects:
 See all my projects:
 
 * **AirBnb Data Analyses - London:** https://bit.ly/3S1x1e9
@@ -37,9 +43,8 @@ See all my projects:
   <a href="https://instagram.com/pspn94" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto: pspn94@gmail.com"><img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 </div>
+
 <!---
 pspn94/pspn94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
