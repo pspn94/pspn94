@@ -1,7 +1,7 @@
 ## Hi, I’m Pedro Neto.
 - Data Engineer at Cidacs
+- Master student in Data Science at University of Hertfordshire
 - I’m interested in Data Science, Data Analytics and Web Development.
-- I’m currently learning JavaScript and React.js with Redux.
 <br></br>
 <div>
   <a href="https://github.com/pspn94">
@@ -27,7 +27,7 @@
 ## Projects:
 See all my projects:
 
-* **AirBnb Data Analyses - London** https://bit.ly/3S1x1e9
+* **AirBnb Data Analyses London** https://bit.ly/3S1x1e9
 
 ---
 
