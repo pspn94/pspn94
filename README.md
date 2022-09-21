@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Pedro Neto.
 - Data Engineer at Cidacs
 - Master student in Data Science at University of Hertfordshire
-- I’m interested in Data Science, Data Analytics and Web Development.
+- I’m interested in Data Science, Data Analytics, Data Engineering and Web Development.
 <br></br>
 <div>
   <a href="https://github.com/pspn94">
@@ -10,7 +10,7 @@
 <div>
   
 ### Programming Languages, Frameworks and Technologies
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -19,7 +19,6 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
   <img align="center" alt="VSCode" height="30" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
   <img align="center" alt="Jupyter" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png">
-  
 </div>
 <br>
 
