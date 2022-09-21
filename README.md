@@ -30,7 +30,7 @@
 <br>
 
 ### Projects:
-See all my projects:
+**See all my projects:**
 
 * **AirBnb Data Analyses - London:** https://bit.ly/3S1x1e9
 
